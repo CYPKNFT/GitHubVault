@@ -1,0 +1,276 @@
+[submodule "AI/GenerativeImage/QwenImage"]
+	path = AI/GenerativeImage/QwenImage
+	url = git@github.com:CYPKNFT/Qwen-Image.git
+[submodule "AI/LLMFrameworks/CrewAI"]
+	path = AI/LLMFrameworks/CrewAI
+	url = git@github.com:CYPKNFT/crewAI.git
+[submodule "AI/LLMFrameworks/Docling"]
+	path = AI/LLMFrameworks/Docling
+	url = git@github.com:CYPKNFT/docling.git
+[submodule "AI/LLMFrameworks/LangChain"]
+	path = AI/LLMFrameworks/LangChain
+	url = git@github.com:CYPKNFT/langchain.git
+[submodule "AI/LLMFrameworks/LlamaIndex"]
+	path = AI/LLMFrameworks/LlamaIndex
+	url = https://github.com/run-llama/llama_index.git
+[submodule "AI/LLMs/BitNet"]
+	path = AI/LLMs/BitNet
+	url = git@github.com:CYPKNFT/BitNet.git
+[submodule "AI/LLMs/DeepSeek-R1"]
+	path = AI/LLMs/DeepSeek-R1
+	url = git@github.com:CYPKNFT/DeepSeek-R1.git
+[submodule "AI/LLMs/DeepSeek-V3"]
+	path = AI/LLMs/DeepSeek-V3
+	url = git@github.com:CYPKNFT/DeepSeek-V3.git
+[submodule "AI/LLMs/Llama"]
+	path = AI/LLMs/Llama
+	url = git@github.com:CYPKNFT/llama.git
+[submodule "AI/LLMs/OLMo-core"]
+	path = AI/LLMs/OLMo-core
+	url = git@github.com:CYPKNFT/OLMo-core.git
+[submodule "AI/LLMs/Qwen3-Omni"]
+	path = AI/LLMs/Qwen3-Omni
+	url = git@github.com:CYPKNFT/Qwen3-Omni.git
+[submodule "AI/LLMs/Qwen3"]
+	path = AI/LLMs/Qwen3
+	url = git@github.com:CYPKNFT/Qwen3.git
+[submodule "AI/MachineLearning/MLFromScratch"]
+	path = AI/MachineLearning/MLFromScratch
+	url = git@github.com:CYPKNFT/ML-From-Scratch.git
+[submodule "AI/MachineLearning/anthropic-sdk-python"]
+	path = AI/MachineLearning/anthropic-sdk-python
+	url = git@github.com:CYPKNFT/anthropic-sdk-python.git
+[submodule "AI/MachineLearning/chromadb"]
+	path = AI/MachineLearning/chromadb
+	url = git@github.com:CYPKNFT/chroma.git
+[submodule "AI/MachineLearning/diffusers"]
+	path = AI/MachineLearning/diffusers
+	url = git@github.com:CYPKNFT/diffusers.git
+[submodule "AI/MachineLearning/llama.cpp"]
+	path = AI/MachineLearning/llama.cpp
+	url = git@github.com:CYPKNFT/llama.cpp.git
+[submodule "AI/MachineLearning/ollama"]
+	path = AI/MachineLearning/ollama
+	url = git@github.com:CYPKNFT/ollama.git
+[submodule "AI/MachineLearning/openai-python"]
+	path = AI/MachineLearning/openai-python
+	url = git@github.com:CYPKNFT/openai-python.git
+[submodule "AI/MachineLearning/pytorch"]
+	path = AI/MachineLearning/pytorch
+	url = git@github.com:CYPKNFT/pytorch.git
+[submodule "AI/MachineLearning/qdrant"]
+	path = AI/MachineLearning/qdrant
+	url = git@github.com:CYPKNFT/qdrant.git
+[submodule "AI/MachineLearning/transformers"]
+	path = AI/MachineLearning/transformers
+	url = git@github.com:CYPKNFT/transformers.git
+[submodule "AI/MachineLearning/vllm"]
+	path = AI/MachineLearning/vllm
+	url = git@github.com:CYPKNFT/vllm.git
+[submodule "AI/TTS/PocketTTS"]
+	path = AI/TTS/PocketTTS
+	url = git@github.com:CYPKNFT/pocket-tts.git
+[submodule "AI/TTS/Qwen3TTS"]
+	path = AI/TTS/Qwen3TTS
+	url = git@github.com:CYPKNFT/Qwen3-TTS.git
+[submodule "AI/UI/claudecodeui"]
+	path = AI/UI/claudecodeui
+	url = git@github.com:CYPKNFT/claudecodeui.git
+[submodule "AI/UI/happy"]
+	path = AI/UI/happy
+	url = git@github.com:CYPKNFT/happy.git
+[submodule "Applications/FocalBoard"]
+	path = Applications/FocalBoard
+	url = git@github.com:CYPKNFT/focalboard.git
+[submodule "Applications/SupaBase"]
+	path = Applications/SupaBase
+	url = git@github.com:CYPKNFT/supabase.git
+[submodule "Docs/go/fiber"]
+	path = Docs/go/fiber
+	url = git@github.com:CYPKNFT/fiber.git
+[submodule "Docs/go/gin"]
+	path = Docs/go/gin
+	url = git@github.com:CYPKNFT/gin.git
+[submodule "Docs/go/gorm"]
+	path = Docs/go/gorm
+	url = git@github.com:CYPKNFT/gorm.git
+[submodule "Docs/go/go"]
+	path = Docs/go/go
+	url = git@github.com:CYPKNFT/go.git
+[submodule "Docs/infra/docker-docs"]
+	path = Docs/infra/docker-docs
+	url = git@github.com:CYPKNFT/docs.git
+[submodule "Docs/infra/kubernetes-website"]
+	path = Docs/infra/kubernetes-website
+	url = git@github.com:CYPKNFT/website.git
+[submodule "Docs/infra/nginx"]
+	path = Docs/infra/nginx
+	url = git@github.com:CYPKNFT/nginx.git
+[submodule "Docs/infra/terraform"]
+	path = Docs/infra/terraform
+	url = git@github.com:CYPKNFT/terraform.git
+[submodule "Docs/javascript/drizzle-orm"]
+	path = Docs/javascript/drizzle-orm
+	url = git@github.com:CYPKNFT/drizzle-orm.git
+[submodule "Docs/javascript/express"]
+	path = Docs/javascript/express
+	url = git@github.com:CYPKNFT/express.git
+[submodule "Docs/javascript/hono"]
+	path = Docs/javascript/hono
+	url = git@github.com:CYPKNFT/hono.git
+[submodule "Docs/javascript/next.js"]
+	path = Docs/javascript/next.js
+	url = git@github.com:CYPKNFT/next.js.git
+[submodule "Docs/javascript/node"]
+	path = Docs/javascript/node
+	url = git@github.com:CYPKNFT/node.git
+[submodule "Docs/javascript/prisma"]
+	path = Docs/javascript/prisma
+	url = git@github.com:CYPKNFT/prisma.git
+[submodule "Docs/javascript/react"]
+	path = Docs/javascript/react
+	url = git@github.com:CYPKNFT/react.git
+[submodule "Docs/javascript/shadcn-ui"]
+	path = Docs/javascript/shadcn-ui
+	url = git@github.com:CYPKNFT/ui.git
+[submodule "Docs/javascript/svelte"]
+	path = Docs/javascript/svelte
+	url = git@github.com:CYPKNFT/svelte.git
+[submodule "Docs/javascript/tailwindcss"]
+	path = Docs/javascript/tailwindcss
+	url = git@github.com:CYPKNFT/tailwindcss.git
+[submodule "Docs/javascript/trpc"]
+	path = Docs/javascript/trpc
+	url = git@github.com:CYPKNFT/trpc.git
+[submodule "Docs/javascript/vue"]
+	path = Docs/javascript/vue
+	url = git@github.com:CYPKNFT/core.git
+[submodule "Docs/javascript/zod"]
+	path = Docs/javascript/zod
+	url = git@github.com:CYPKNFT/zod.git
+[submodule "Docs/python/cpython"]
+	path = Docs/python/cpython
+	url = git@github.com:CYPKNFT/cpython.git
+[submodule "Docs/python/django"]
+	path = Docs/python/django
+	url = git@github.com:CYPKNFT/django.git
+[submodule "Docs/python/fastapi"]
+	path = Docs/python/fastapi
+	url = git@github.com:CYPKNFT/fastapi.git
+[submodule "Docs/python/flask"]
+	path = Docs/python/flask
+	url = git@github.com:CYPKNFT/flask.git
+[submodule "Docs/python/numpy"]
+	path = Docs/python/numpy
+	url = git@github.com:CYPKNFT/numpy.git
+[submodule "Docs/python/pandas"]
+	path = Docs/python/pandas
+	url = git@github.com:CYPKNFT/pandas.git
+[submodule "Docs/python/pydantic"]
+	path = Docs/python/pydantic
+	url = git@github.com:CYPKNFT/pydantic.git
+[submodule "Docs/python/pytest"]
+	path = Docs/python/pytest
+	url = git@github.com:CYPKNFT/pytest.git
+[submodule "Docs/python/requests"]
+	path = Docs/python/requests
+	url = git@github.com:CYPKNFT/requests.git
+[submodule "Docs/python/sqlalchemy"]
+	path = Docs/python/sqlalchemy
+	url = git@github.com:CYPKNFT/sqlalchemy.git
+[submodule "Docs/rust/axum"]
+	path = Docs/rust/axum
+	url = git@github.com:CYPKNFT/axum.git
+[submodule "Docs/rust/clap"]
+	path = Docs/rust/clap
+	url = git@github.com:CYPKNFT/clap.git
+[submodule "Docs/rust/rust-book"]
+	path = Docs/rust/rust-book
+	url = git@github.com:CYPKNFT/book.git
+[submodule "Docs/rust/rust"]
+	path = Docs/rust/rust
+	url = git@github.com:CYPKNFT/rust.git
+[submodule "Docs/rust/serde"]
+	path = Docs/rust/serde
+	url = git@github.com:CYPKNFT/serde.git
+[submodule "Docs/rust/tokio"]
+	path = Docs/rust/tokio
+	url = git@github.com:CYPKNFT/tokio.git
+[submodule "Lists/AwesomList"]
+	path = Lists/AwesomList
+	url = git@github.com:CYPKNFT/awesome.git
+[submodule "Lists/Free-For-Dev"]
+	path = Lists/Free-For-Dev
+	url = git@github.com:CYPKNFT/free-for-dev.git
+[submodule "MCP_Phonebooks/atlassian-mcp"]
+	path = MCP_Phonebooks/atlassian-mcp
+	url = git@github.com:CYPKNFT/mcp-atlassian.git
+[submodule "MCP_Phonebooks/context7-mcp"]
+	path = MCP_Phonebooks/context7-mcp
+	url = git@github.com:CYPKNFT/context7.git
+[submodule "MCP_Phonebooks/docker-mcp"]
+	path = MCP_Phonebooks/docker-mcp
+	url = git@github.com:CYPKNFT/mcp-gateway.git
+[submodule "MCP_Phonebooks/exa-mcp"]
+	path = MCP_Phonebooks/exa-mcp
+	url = git@github.com:CYPKNFT/exa-mcp-server.git
+[submodule "MCP_Phonebooks/firecrawl-mcp"]
+	path = MCP_Phonebooks/firecrawl-mcp
+	url = git@github.com:CYPKNFT/firecrawl-mcp-server.git
+[submodule "MCP_Phonebooks/github-mcp"]
+	path = MCP_Phonebooks/github-mcp
+	url = git@github.com:CYPKNFT/github-mcp-server.git
+[submodule "MCP_Phonebooks/markdownify-mcp"]
+	path = MCP_Phonebooks/markdownify-mcp
+	url = git@github.com:CYPKNFT/markdownify-mcp.git
+[submodule "MCP_Phonebooks/notion-mcp"]
+	path = MCP_Phonebooks/notion-mcp
+	url = git@github.com:CYPKNFT/notion-mcp-server.git
+[submodule "MCP_Phonebooks/official-servers"]
+	path = MCP_Phonebooks/official-servers
+	url = git@github.com:CYPKNFT/servers.git
+[submodule "MCP_Phonebooks/playwright-mcp"]
+	path = MCP_Phonebooks/playwright-mcp
+	url = git@github.com:CYPKNFT/playwright-mcp.git
+[submodule "MCP_Phonebooks/supabase-mcp"]
+	path = MCP_Phonebooks/supabase-mcp
+	url = git@github.com:CYPKNFT/supabase-mcp.git
+[submodule "Science/Mathematics/Cryptography/Ciphey"]
+	path = Science/Mathematics/Cryptography/Ciphey
+	url = git@github.com:CYPKNFT/Ciphey.git
+[submodule "Science/Mathematics/Cryptography/SEAL"]
+	path = Science/Mathematics/Cryptography/SEAL
+	url = git@github.com:CYPKNFT/SEAL.git
+[submodule "Science/Mathematics/Cryptography/fully-homomorphic-encryption"]
+	path = Science/Mathematics/Cryptography/fully-homomorphic-encryption
+	url = git@github.com:CYPKNFT/fully-homomorphic-encryption.git
+[submodule "Science/Mathematics/Cryptography/libsodium"]
+	path = Science/Mathematics/Cryptography/libsodium
+	url = git@github.com:CYPKNFT/libsodium.git
+[submodule "Science/Mathematics/Cryptography/neural-cryptography-tensorflow"]
+	path = Science/Mathematics/Cryptography/neural-cryptography-tensorflow
+	url = git@github.com:CYPKNFT/neural-cryptography-tensorflow.git
+[submodule "Science/Mathematics/Cryptography/ockam"]
+	path = Science/Mathematics/Cryptography/ockam
+	url = git@github.com:CYPKNFT/ockam.git
+[submodule "Science/Mathematics/Cryptography/openssl"]
+	path = Science/Mathematics/Cryptography/openssl
+	url = git@github.com:CYPKNFT/openssl.git
+[submodule "Science/Psychology/SoulChat2.0"]
+	path = Science/Psychology/SoulChat2.0
+	url = git@github.com:CYPKNFT/SoulChat2.0.git
+[submodule "Science/Psychology/psychopy"]
+	path = Science/Psychology/psychopy
+	url = git@github.com:CYPKNFT/psychopy.git
+[submodule "Support/PublicAPIs"]
+	path = Support/PublicAPIs
+	url = git@github.com:CYPKNFT/public-apis.git
+[submodule "Support/TheAlgorithms/CPP"]
+	path = Support/TheAlgorithms/CPP
+	url = git@github.com:CYPKNFT/CPPAlgorithms.git
+[submodule "Support/TheAlgorithms/Java"]
+	path = Support/TheAlgorithms/Java
+	url = git@github.com:CYPKNFT/JavaAlgorithms.git
+[submodule "Support/TheAlgorithms/Python"]
+	path = Support/TheAlgorithms/Python
+	url = git@github.com:CYPKNFT/PythonAlgorithms.git
